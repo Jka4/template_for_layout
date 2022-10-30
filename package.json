@@ -4,7 +4,7 @@
   "description": "template for layout Gulp+Pug+SCSS",
   "author": "Plotnik Vladimir Jka4",
   "devDependencies": {
-    "browser-sync": "^2.13.0",
+    "browser-sync": "^2.27.10",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-cheerio": "^0.6.2",
